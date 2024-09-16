@@ -1,0 +1,349 @@
+2024-09-14 14:07:31,672 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:07:31,717 - INFO - Face ID 0 left. Time in: 2024-09-14 14:07:28, Time out: 2024-09-14 14:07:31. Duration: 3.0 seconds, Cumulative emotions: ['neutral'], Productivity: 70.0%
+2024-09-14 14:07:31,718 - ERROR - Error inserting face data: no such table: face_logs
+2024-09-14 14:07:32,626 - INFO - Face ID 0 detected emotion: sad
+2024-09-14 14:07:33,693 - INFO - Face ID 0 detected emotion: sad
+2024-09-14 14:07:35,381 - INFO - Face ID 0 detected emotion: sad
+2024-09-14 14:07:41,368 - INFO - Face ID 0 detected emotion: sad
+2024-09-14 14:07:42,097 - INFO - Face ID 1 detected emotion: happy
+2024-09-14 14:07:42,160 - INFO - Face ID 1 left. Time in: 2024-09-14 14:07:41, Time out: 2024-09-14 14:07:42. Duration: 1.0 seconds, Cumulative emotions: ['happy'], Productivity: 100%
+2024-09-14 14:07:42,161 - ERROR - Error inserting face data: no such table: face_logs
+2024-09-14 14:07:43,749 - INFO - Face ID 1 detected emotion: happy
+2024-09-14 14:07:45,879 - INFO - Face ID 1 detected emotion: happy
+2024-09-14 14:07:53,574 - INFO - Face ID 2 detected emotion: neutral
+2024-09-14 14:07:53,647 - INFO - Face ID 2 left. Time in: 2024-09-14 14:07:52, Time out: 2024-09-14 14:07:53. Duration: 1.0 seconds, Cumulative emotions: ['neutral'], Productivity: 70.0%
+2024-09-14 14:07:53,648 - ERROR - Error inserting face data: no such table: face_logs
+2024-09-14 14:08:01,629 - INFO - Face ID 3 detected emotion: angry
+2024-09-14 14:08:01,713 - INFO - Face ID 3 left. Time in: 2024-09-14 14:08:00, Time out: 2024-09-14 14:08:01. Duration: 1.0 seconds, Cumulative emotions: ['angry'], Productivity: 0%
+2024-09-14 14:08:01,714 - ERROR - Error inserting face data: no such table: face_logs
+2024-09-14 14:08:08,014 - INFO - Face ID 3 detected emotion: neutral
+2024-09-14 14:08:12,531 - INFO - Face ID 3 detected emotion: neutral
+2024-09-14 14:08:18,652 - INFO - Face ID 3 detected emotion: neutral
+2024-09-14 14:08:20,869 - INFO - Face ID 4 detected emotion: happy
+2024-09-14 14:08:20,964 - INFO - Face ID 4 left. Time in: 2024-09-14 14:08:20, Time out: 2024-09-14 14:08:20. Duration: 0.0 seconds, Cumulative emotions: ['happy'], Productivity: 100%
+2024-09-14 14:08:20,965 - ERROR - Error inserting face data: no such table: face_logs
+2024-09-14 14:08:21,976 - INFO - Face ID 1 detected emotion: happy
+2024-09-14 14:08:23,254 - INFO - Face ID 3 detected emotion: angry
+2024-09-14 14:08:24,052 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:08:25,272 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:08:28,201 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:08:29,613 - INFO - Face ID 5 detected emotion: neutral
+2024-09-14 14:08:30,588 - INFO - Face ID 5 detected emotion: neutral
+2024-09-14 14:08:31,579 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:08:31,580 - INFO - Face ID 5 left. Time in: 2024-09-14 14:08:28, Time out: 2024-09-14 14:08:30. Duration: 2.0 seconds, Cumulative emotions: ['neutral', 'neutral'], Productivity: 70.0%
+2024-09-14 14:08:31,581 - ERROR - Error inserting face data: no such table: face_logs
+2024-09-14 14:08:32,921 - INFO - Face ID 0 detected emotion: sad
+2024-09-14 14:08:34,156 - INFO - Face ID 6 detected emotion: neutral
+2024-09-14 14:12:15,866 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:12:16,726 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:12:17,449 - INFO - Face ID 0 detected emotion: angry
+2024-09-14 14:12:18,347 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:12:19,554 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:12:20,297 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:12:20,375 - INFO - Face ID 0 left. Time in: 2024-09-14 14:12:11, Time out: 2024-09-14 14:12:20. Duration: 9.0 seconds, Cumulative emotions: ['neutral', 'neutral', 'angry', 'neutral', 'neutral', 'neutral'], Productivity: 41.66666666666667%
+2024-09-14 14:12:20,376 - ERROR - Error inserting face data: no such table: face_logs
+2024-09-14 14:12:21,246 - INFO - Face ID 1 detected emotion: neutral
+2024-09-14 14:12:22,150 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:12:22,151 - INFO - Face ID 1 left. Time in: 2024-09-14 14:12:20, Time out: 2024-09-14 14:12:21. Duration: 1.0 seconds, Cumulative emotions: ['neutral'], Productivity: 70.0%
+2024-09-14 14:12:22,152 - ERROR - Error inserting face data: no such table: face_logs
+2024-09-14 14:12:22,998 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:12:24,070 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:12:25,152 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:12:26,068 - INFO - Face ID 2 detected emotion: neutral
+2024-09-14 14:12:27,293 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:12:27,293 - INFO - Face ID 2 left. Time in: 2024-09-14 14:12:25, Time out: 2024-09-14 14:12:26. Duration: 1.0 seconds, Cumulative emotions: ['neutral'], Productivity: 70.0%
+2024-09-14 14:12:27,296 - ERROR - Error inserting face data: no such table: face_logs
+2024-09-14 14:12:29,006 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:12:30,155 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:12:31,070 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:12:31,956 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:12:38,964 - INFO - Face ID 1 detected emotion: neutral
+2024-09-14 14:12:40,076 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:12:41,416 - INFO - Face ID 3 detected emotion: neutral
+2024-09-14 14:12:42,335 - INFO - Face ID 3 detected emotion: neutral
+2024-09-14 14:12:43,986 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:12:43,987 - INFO - Face ID 3 left. Time in: 2024-09-14 14:12:40, Time out: 2024-09-14 14:12:42. Duration: 2.0 seconds, Cumulative emotions: ['neutral', 'neutral'], Productivity: 70.0%
+2024-09-14 14:12:43,989 - ERROR - Error inserting face data: no such table: face_logs
+2024-09-14 14:12:45,040 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:12:45,987 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:12:46,814 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:12:47,813 - INFO - Face ID 2 detected emotion: neutral
+2024-09-14 14:12:48,843 - INFO - Face ID 1 detected emotion: sad
+2024-09-14 14:12:50,239 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:12:51,155 - INFO - Face ID 2 detected emotion: surprise
+2024-09-14 14:12:52,103 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:12:53,293 - INFO - Face ID 4 detected emotion: neutral
+2024-09-14 14:12:54,327 - INFO - Face ID 1 detected emotion: neutral
+2024-09-14 14:12:54,327 - INFO - Face ID 4 left. Time in: 2024-09-14 14:12:52, Time out: 2024-09-14 14:12:53. Duration: 1.0 seconds, Cumulative emotions: ['neutral'], Productivity: 70.0%
+2024-09-14 14:12:54,328 - ERROR - Error inserting face data: no such table: face_logs
+2024-09-14 14:12:55,297 - INFO - Face ID 1 detected emotion: neutral
+2024-09-14 14:12:56,099 - INFO - Face ID 1 detected emotion: neutral
+2024-09-14 14:12:56,817 - INFO - Face ID 1 detected emotion: neutral
+2024-09-14 14:12:57,542 - INFO - Face ID 5 detected emotion: angry
+2024-09-14 14:12:57,615 - INFO - Face ID 5 left. Time in: 2024-09-14 14:12:56, Time out: 2024-09-14 14:12:57. Duration: 1.0 seconds, Cumulative emotions: ['angry'], Productivity: 0%
+2024-09-14 14:12:57,616 - ERROR - Error inserting face data: no such table: face_logs
+2024-09-14 14:13:09,071 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:13:10,301 - INFO - Face ID 6 detected emotion: neutral
+2024-09-14 14:26:24,849 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:26:25,893 - INFO - Face ID 0 detected emotion: sad
+2024-09-14 14:26:26,865 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:26:27,703 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:26:28,428 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:26:29,305 - INFO - Face ID 1 detected emotion: neutral
+2024-09-14 14:26:29,307 - INFO - Face ID 0 left. Time in: 2024-09-14 14:26:18, Time out: 2024-09-14 14:26:28. Duration: 10.0 seconds, Cumulative emotions: ['neutral', 'sad', 'neutral', 'neutral', 'neutral'], Productivity: 46.0%
+2024-09-14 14:26:29,310 - INFO - Inserted face data for Face ID 0 into CSV file.
+2024-09-14 14:26:30,124 - INFO - Face ID 2 detected emotion: neutral
+2024-09-14 14:26:30,124 - INFO - Face ID 1 left. Time in: 2024-09-14 14:26:28, Time out: 2024-09-14 14:26:29. Duration: 1.0 seconds, Cumulative emotions: ['neutral'], Productivity: 70.0%
+2024-09-14 14:26:30,127 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-14 14:26:30,999 - INFO - Face ID 3 detected emotion: neutral
+2024-09-14 14:26:30,999 - INFO - Face ID 2 left. Time in: 2024-09-14 14:26:29, Time out: 2024-09-14 14:26:30. Duration: 1.0 seconds, Cumulative emotions: ['neutral'], Productivity: 70.0%
+2024-09-14 14:26:31,002 - INFO - Inserted face data for Face ID 2 into CSV file.
+2024-09-14 14:26:32,377 - INFO - Face ID 3 detected emotion: neutral
+2024-09-14 14:26:33,720 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:26:33,721 - INFO - Face ID 3 left. Time in: 2024-09-14 14:26:30, Time out: 2024-09-14 14:26:32. Duration: 2.0 seconds, Cumulative emotions: ['neutral', 'neutral'], Productivity: 70.0%
+2024-09-14 14:26:33,724 - INFO - Inserted face data for Face ID 3 into CSV file.
+2024-09-14 14:26:34,963 - INFO - Face ID 4 detected emotion: neutral
+2024-09-14 14:26:36,135 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:26:36,135 - INFO - Face ID 4 left. Time in: 2024-09-14 14:26:33, Time out: 2024-09-14 14:26:35. Duration: 2.0 seconds, Cumulative emotions: ['neutral'], Productivity: 70.0%
+2024-09-14 14:26:36,139 - INFO - Inserted face data for Face ID 4 into CSV file.
+2024-09-14 14:26:37,140 - INFO - Face ID 2 detected emotion: neutral
+2024-09-14 14:26:38,092 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:26:39,003 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:26:39,983 - INFO - Face ID 4 detected emotion: neutral
+2024-09-14 14:26:41,315 - INFO - Face ID 0 detected emotion: surprise
+2024-09-14 14:26:42,529 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:26:43,816 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:26:44,864 - INFO - Face ID 0 detected emotion: surprise
+2024-09-14 14:26:52,111 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:26:53,062 - INFO - Face ID 5 detected emotion: neutral
+2024-09-14 14:26:54,302 - INFO - Face ID 5 detected emotion: neutral
+2024-09-14 14:26:55,489 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:26:55,490 - INFO - Face ID 5 left. Time in: 2024-09-14 14:26:52, Time out: 2024-09-14 14:26:54. Duration: 2.0 seconds, Cumulative emotions: ['neutral', 'neutral'], Productivity: 70.0%
+2024-09-14 14:26:55,496 - INFO - Inserted face data for Face ID 5 into CSV file.
+2024-09-14 14:26:56,935 - INFO - Face ID 3 detected emotion: neutral
+2024-09-14 14:26:58,475 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:26:59,861 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:27:00,804 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:27:02,077 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:27:03,131 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:27:04,032 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:27:05,042 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:27:06,009 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:27:06,986 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:27:07,841 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:27:08,642 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:27:09,676 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:27:10,399 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:27:11,236 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:27:12,365 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:27:13,437 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:27:14,445 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:27:15,333 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:27:16,478 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:27:17,398 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 14:27:18,359 - INFO - Face ID 0 detected emotion: neutral
+2024-09-14 19:19:52,048 - ERROR - Failed to capture frame from webcam
+2024-09-14 20:01:27,446 - ERROR - Failed to capture frame from webcam
+2024-09-14 20:02:41,887 - ERROR - Failed to capture frame from webcam
+2024-09-14 20:14:10,552 - INFO - Face ID 0 detected emotion: happy2024-09-15 00:44:53,218 - ERROR - Error starting video feed: strptime() argument 1 must be str, not None
+2024-09-15 00:46:56,185 - ERROR - Error starting video feed: strptime() argument 1 must be str, not None
+2024-09-15 00:57:25,251 - ERROR - Error starting video feed: strptime() argument 1 must be str, not None
+2024-09-15 13:45:56,595 - INFO - Inserted face data for Face ID 0 into CSV file.
+2024-09-15 13:45:56,597 - ERROR - Error starting video feed: dictionary changed size during iteration
+2024-09-15 13:48:07,447 - INFO - Inserted face data for Face ID 0 into CSV file.
+2024-09-15 13:48:07,447 - ERROR - Error starting video feed: dictionary changed size during iteration
+2024-09-15 13:49:37,550 - INFO - Inserted face data for Face ID 0 into CSV file.
+2024-09-15 13:49:37,550 - ERROR - Error starting video feed: dictionary changed size during iteration
+2024-09-15 13:50:07,813 - INFO - Inserted face data for Face ID 0 into CSV file.
+2024-09-15 13:50:07,813 - ERROR - Error starting video feed: dictionary changed size during iteration
+2024-09-15 13:51:25,750 - INFO - Inserted face data for Face ID 0 into CSV file.
+2024-09-15 13:51:25,750 - ERROR - Error starting video feed: dictionary changed size during iteration
+2024-09-15 13:55:09,668 - INFO - Inserted face data for Face ID 0 into CSV file.
+2024-09-15 13:55:09,669 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 13:57:40,308 - INFO - Inserted face data for Face ID 0 into CSV file.
+2024-09-15 13:57:40,309 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 13:59:28,016 - INFO - Inserted face data for Face ID 2 into CSV file.
+2024-09-15 13:59:28,016 - INFO - Inserted face data for Face ID 3 into CSV file.
+2024-09-15 14:01:41,540 - INFO - Inserted face data for Face ID 4 into CSV file.
+2024-09-15 14:14:54,016 - INFO - Inserted face data for Face ID 0 into CSV file.
+2024-09-15 14:16:00,070 - INFO - Inserted face data for Face ID 0 into CSV file.
+2024-09-15 14:16:25,127 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 14:16:25,127 - INFO - Inserted face data for Face ID 2 into CSV file.
+2024-09-15 14:16:57,125 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 14:16:57,125 - INFO - Inserted face data for Face ID 2 into CSV file.
+2024-09-15 14:56:52,585 - INFO - Inserted face data for Face ID 0 into CSV file.
+2024-09-15 14:57:18,010 - INFO - Inserted face data for Face ID 0 into CSV file.
+2024-09-15 14:57:27,605 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 14:57:52,656 - INFO - Inserted face data for Face ID 0 into CSV file.
+2024-09-15 14:58:18,000 - INFO - Inserted face data for Face ID 0 into CSV file.
+2024-09-15 14:58:23,117 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 14:58:28,095 - INFO - Inserted face data for Face ID 0 into CSV file.
+2024-09-15 14:58:33,050 - INFO - Inserted face data for Face ID 2 into CSV file.
+2024-09-15 14:58:37,677 - INFO - Inserted face data for Face ID 0 into CSV file.
+2024-09-15 14:58:47,911 - INFO - Inserted face data for Face ID 3 into CSV file.
+2024-09-15 14:58:58,587 - INFO - Inserted face data for Face ID 4 into CSV file.
+2024-09-15 14:58:59,886 - INFO - Inserted face data for Face ID 5 into CSV file.
+2024-09-15 14:59:03,892 - INFO - Inserted face data for Face ID 5 into CSV file.
+2024-09-15 14:59:09,883 - INFO - Inserted face data for Face ID 0 into CSV file.
+2024-09-15 14:59:30,279 - INFO - Inserted face data for Face ID 0 into CSV file.
+2024-09-15 14:59:34,315 - INFO - Inserted face data for Face ID 6 into CSV file.
+2024-09-15 14:59:35,931 - INFO - Inserted face data for Face ID 7 into CSV file.
+2024-09-15 14:59:39,924 - INFO - Inserted face data for Face ID 6 into CSV file.
+2024-09-15 14:59:55,951 - INFO - Inserted face data for Face ID 8 into CSV file.
+2024-09-15 15:04:57,144 - ERROR - Error starting video feed: max() arg is an empty sequence
+2024-09-15 15:04:57,547 - ERROR - Error starting video feed: max() arg is an empty sequence
+2024-09-15 15:04:58,396 - ERROR - Error starting video feed: max() arg is an empty sequence
+2024-09-15 15:05:06,375 - ERROR - Error starting video feed: max() arg is an empty sequence
+2024-09-15 15:05:18,340 - ERROR - Error starting video feed: max() arg is an empty sequence
+2024-09-15 15:05:26,407 - ERROR - Error starting video feed: max() arg is an empty sequence
+2024-09-15 15:05:30,368 - ERROR - Error starting video feed: max() arg is an empty sequence
+2024-09-15 15:05:32,372 - ERROR - Error starting video feed: max() arg is an empty sequence
+2024-09-15 15:05:34,388 - ERROR - Error starting video feed: max() arg is an empty sequence
+2024-09-15 15:05:36,397 - ERROR - Error starting video feed: max() arg is an empty sequence
+2024-09-15 15:05:42,445 - ERROR - Error starting video feed: max() arg is an empty sequence
+2024-09-15 15:05:44,350 - ERROR - Error starting video feed: max() arg is an empty sequence
+2024-09-15 15:09:38,468 - ERROR - Error extracting face embedding: max() arg is an empty sequence
+2024-09-15 15:09:38,697 - ERROR - Error extracting face embedding: max() arg is an empty sequence
+2024-09-15 15:12:09,463 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:12:09,464 - INFO - Inserted face data for Face ID 2 into CSV file.
+2024-09-15 15:12:46,618 - INFO - Inserted face data for Face ID 3 into CSV file.
+2024-09-15 15:12:52,683 - INFO - Inserted face data for Face ID 4 into CSV file.
+2024-09-15 15:13:02,983 - INFO - Inserted face data for Face ID 3 into CSV file.
+2024-09-15 15:13:10,993 - INFO - Inserted face data for Face ID 5 into CSV file.
+2024-09-15 15:13:16,676 - INFO - Inserted face data for Face ID 4 into CSV file.
+2024-09-15 15:13:25,203 - INFO - Inserted face data for Face ID 3 into CSV file.
+2024-09-15 15:13:29,062 - INFO - Inserted face data for Face ID 4 into CSV file.
+2024-09-15 15:13:30,704 - INFO - Inserted face data for Face ID 3 into CSV file.
+2024-09-15 15:13:58,731 - INFO - Inserted face data for Face ID 6 into CSV file.
+2024-09-15 15:14:03,089 - INFO - Inserted face data for Face ID 3 into CSV file.
+2024-09-15 15:14:03,090 - INFO - Inserted face data for Face ID 6 into CSV file.
+2024-09-15 15:14:05,084 - INFO - Inserted face data for Face ID 4 into CSV file.
+2024-09-15 15:14:06,752 - INFO - Inserted face data for Face ID 3 into CSV file.
+2024-09-15 15:14:11,102 - INFO - Inserted face data for Face ID 3 into CSV file.
+2024-09-15 15:14:12,745 - INFO - Inserted face data for Face ID 4 into CSV file.
+2024-09-15 15:14:16,767 - INFO - Inserted face data for Face ID 3 into CSV file.
+2024-09-15 15:14:22,766 - INFO - Inserted face data for Face ID 3 into CSV file.
+2024-09-15 15:14:30,772 - INFO - Inserted face data for Face ID 3 into CSV file.
+2024-09-15 15:14:38,785 - INFO - Inserted face data for Face ID 3 into CSV file.
+2024-09-15 15:14:43,214 - INFO - Inserted face data for Face ID 4 into CSV file.
+2024-09-15 15:14:44,808 - INFO - Inserted face data for Face ID 3 into CSV file.
+2024-09-15 15:14:53,190 - INFO - Inserted face data for Face ID 3 into CSV file.
+2024-09-15 15:14:57,183 - INFO - Inserted face data for Face ID 4 into CSV file.
+2024-09-15 15:14:58,820 - INFO - Inserted face data for Face ID 3 into CSV file.
+2024-09-15 15:15:20,886 - INFO - Inserted face data for Face ID 4 into CSV file.
+2024-09-15 15:15:50,931 - INFO - Inserted face data for Face ID 3 into CSV file.
+2024-09-15 15:16:02,950 - INFO - Inserted face data for Face ID 4 into CSV file.
+2024-09-15 15:16:35,376 - INFO - Inserted face data for Face ID 4 into CSV file.
+2024-09-15 15:16:37,029 - INFO - Inserted face data for Face ID 3 into CSV file.
+2024-09-15 15:16:43,511 - INFO - Inserted face data for Face ID 3 into CSV file.
+2024-09-15 15:16:45,039 - INFO - Inserted face data for Face ID 4 into CSV file.
+2024-09-15 15:16:55,057 - INFO - Inserted face data for Face ID 4 into CSV file.
+2024-09-15 15:17:14,110 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:17:15,120 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:17:27,152 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:17:29,158 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:17:33,172 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:17:35,177 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:17:37,179 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:17:39,197 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:17:41,194 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:17:45,220 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:17:47,216 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:17:49,227 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:17:51,250 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:17:53,254 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:17:55,260 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:17:57,256 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:18:01,258 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:18:03,258 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:18:07,273 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:18:13,274 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:18:15,274 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:18:17,286 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:18:19,286 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:18:21,285 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:18:23,311 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:18:25,326 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:18:27,325 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:18:31,344 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:18:33,362 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:18:35,353 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:18:37,675 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:18:39,694 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:18:41,369 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:18:41,369 - INFO - Inserted face data for Face ID 2 into CSV file.
+2024-09-15 15:18:43,757 - INFO - Inserted face data for Face ID 2 into CSV file.
+2024-09-15 15:18:45,391 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:18:45,392 - INFO - Inserted face data for Face ID 2 into CSV file.
+2024-09-15 15:18:47,384 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:18:47,384 - INFO - Inserted face data for Face ID 2 into CSV file.
+2024-09-15 15:18:49,390 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:18:49,390 - INFO - Inserted face data for Face ID 2 into CSV file.
+2024-09-15 15:18:51,765 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:18:51,765 - INFO - Inserted face data for Face ID 2 into CSV file.
+2024-09-15 15:18:53,432 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:18:53,432 - INFO - Inserted face data for Face ID 2 into CSV file.
+2024-09-15 15:18:53,432 - INFO - Inserted face data for Face ID 3 into CSV file.
+2024-09-15 15:18:55,807 - INFO - Inserted face data for Face ID 2 into CSV file.
+2024-09-15 15:18:55,807 - INFO - Inserted face data for Face ID 3 into CSV file.
+2024-09-15 15:20:26,124 - ERROR - Failed to capture frame from webcam
+2024-09-15 15:20:26,126 - ERROR - Failed to capture frame from webcam
+2024-09-15 15:20:26,146 - ERROR - Failed to capture frame from webcam
+2024-09-15 15:20:26,172 - ERROR - Failed to capture frame from webcam
+2024-09-15 15:20:26,192 - ERROR - Failed to capture frame from webcam
+2024-09-15 15:20:28,132 - ERROR - Failed to capture frame from webcam
+2024-09-15 15:20:30,079 - ERROR - Failed to capture frame from webcam
+2024-09-15 15:20:32,078 - ERROR - Failed to capture frame from webcam
+2024-09-15 15:20:34,098 - ERROR - Failed to capture frame from webcam
+2024-09-15 15:20:36,120 - ERROR - Failed to capture frame from webcam
+2024-09-15 15:20:38,124 - ERROR - Failed to capture frame from webcam
+2024-09-15 15:20:40,127 - ERROR - Failed to capture frame from webcam
+2024-09-15 15:29:49,622 - ERROR - Failed to capture frame from webcam
+2024-09-15 15:29:50,067 - ERROR - Failed to capture frame from webcam
+2024-09-15 15:29:52,062 - ERROR - Failed to capture frame from webcam
+2024-09-15 15:29:54,114 - ERROR - Failed to capture frame from webcam
+2024-09-15 15:29:56,085 - ERROR - Failed to capture frame from webcam
+2024-09-15 15:29:58,144 - ERROR - Failed to capture frame from webcam
+2024-09-15 15:30:00,124 - ERROR - Failed to capture frame from webcam
+2024-09-15 15:30:02,096 - ERROR - Failed to capture frame from webcam
+2024-09-15 15:30:04,103 - ERROR - Failed to capture frame from webcam
+2024-09-15 15:30:06,116 - ERROR - Failed to capture frame from webcam
+2024-09-15 15:30:08,136 - ERROR - Failed to capture frame from webcam
+2024-09-15 15:30:10,144 - ERROR - Failed to capture frame from webcam
+2024-09-15 15:30:47,924 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:30:55,968 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:30:59,970 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:31:11,993 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:31:16,001 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:31:32,028 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:31:36,044 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:31:40,058 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:31:44,066 - INFO - Inserted face data for Face ID 2 into CSV file.
+2024-09-15 15:31:48,056 - INFO - Inserted face data for Face ID 3 into CSV file.
+2024-09-15 15:31:52,381 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:31:54,396 - INFO - Inserted face data for Face ID 3 into CSV file.
+2024-09-15 15:32:06,129 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:33:04,788 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:33:06,016 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:33:10,277 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:33:22,298 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:33:32,351 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:33:36,362 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:33:44,368 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:34:08,454 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:34:31,477 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:34:43,481 - INFO - Inserted face data for Face ID 2 into CSV file.
+2024-09-15 15:34:46,505 - INFO - Inserted face data for Face ID 3 into CSV file.
+2024-09-15 15:34:49,502 - INFO - Inserted face data for Face ID 2 into CSV file.
+2024-09-15 15:35:25,282 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:35:31,296 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:35:40,303 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:36:56,522 - INFO - Inserted face data for Face ID 1 into CSV file.
+2024-09-15 15:37:55,982 - INFO - Inserted face data for Face ID 2 into CSV file.
+2024-09-15 15:38:02,385 - INFO - Inserted face data for Face ID 2 into CSV file.
+2024-09-15 15:38:05,009 - INFO - Inserted face data for Face ID 3 into CSV file.
+2024-09-15 15:38:20,349 - INFO - Inserted face data for Face ID 4 into CSV file.
+2024-09-15 15:38:23,366 - INFO - Inserted face data for Face ID 3 into CSV file.
+2024-09-15 15:38:26,000 - INFO - Inserted face data for Face ID 2 into CSV file.
+2024-09-15 15:38:47,033 - INFO - Inserted face data for Face ID 2 into CSV file.
+2024-09-15 15:43:35,404 - INFO - Inserted face data for Face ID 5 into CSV file.

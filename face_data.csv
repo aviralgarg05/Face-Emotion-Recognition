@@ -1,0 +1,350 @@
+time_in,time_out,face_id,duration,emotions,productivity
+2024-09-15 14:13:50,2024-09-15 14:14:54,0,64.0,"happy,happy",100
+2024-09-15 14:15:21,0,happy
+2024-09-15 14:15:59,1,neutral
+2024-09-15 14:15:59,2,happy
+2024-09-15 14:15:21,2024-09-15 14:15:59,0,38.0,happy,100
+2024-09-15 14:15:59,2024-09-15 14:16:25,1,26.0,neutral,70.0
+2024-09-15 14:15:59,2024-09-15 14:16:25,2,26.0,happy,100
+2024-09-15 14:16:46,1,neutral   
+2024-09-15 14:16:46,2,happy
+2024-09-15 14:16:46,2024-09-15 14:16:57,1,11.0,neutral,70.0
+2024-09-15 14:16:46,2024-09-15 14:16:57,2,11.0,happy,100
+2024-09-15 14:56:47,0,surprise
+2024-09-15 14:56:47,2024-09-15 14:56:52,0,5.0,surprise,50.0
+2024-09-15 14:57:12,0,neutral
+2024-09-15 14:57:17,1,fear
+2024-09-15 14:57:12,2024-09-15 14:57:17,0,5.0,neutral,70.0
+2024-09-15 14:57:22,1,surprise
+2024-09-15 14:57:17,2024-09-15 14:57:27,1,10.0,"fear,surprise",0
+2024-09-15 14:57:42,0,surprise
+2024-09-15 14:57:47,0,surprise
+2024-09-15 14:57:42,2024-09-15 14:57:52,0,10.0,"surprise,surprise",50.0
+2024-09-15 14:58:12,0,neutral
+2024-09-15 14:58:17,1,neutral
+2024-09-15 14:58:12,2024-09-15 14:58:17,0,5.0,neutral,70.0
+2024-09-15 14:58:22,0,fear
+2024-09-15 14:58:17,2024-09-15 14:58:22,1,5.0,neutral,70.0
+2024-09-15 14:58:27,2,surprise
+2024-09-15 14:58:22,2024-09-15 14:58:27,0,5.0,fear,0
+2024-09-15 14:58:32,0,surprise
+2024-09-15 14:58:27,2024-09-15 14:58:32,2,5.0,surprise,50.0
+2024-09-15 14:58:32,2024-09-15 14:58:37,0,5.0,surprise,50.0
+2024-09-15 14:58:45,3,surprise
+2024-09-15 14:58:45,2024-09-15 14:58:47,3,2.0,surprise,50.0
+2024-09-15 14:58:55,4,fear
+2024-09-15 14:58:57,5,angry
+2024-09-15 14:58:55,2024-09-15 14:58:57,4,2.0,fear,0
+2024-09-15 14:58:57,2024-09-15 14:58:59,5,2.0,angry,0
+2024-09-15 14:59:01,5,happy
+2024-09-15 14:59:01,2024-09-15 14:59:03,5,2.0,happy,100
+2024-09-15 14:59:07,0,neutral
+2024-09-15 14:59:07,2024-09-15 14:59:09,0,2.0,neutral,70.0
+2024-09-15 14:59:17,0,surprise
+2024-09-15 14:59:19,0,surprise
+2024-09-15 14:59:21,0,surprise
+2024-09-15 14:59:23,0,surprise
+2024-09-15 14:59:25,0,surprise
+2024-09-15 14:59:27,0,surprise
+2024-09-15 14:59:29,6,neutral
+2024-09-15 14:59:17,2024-09-15 14:59:29,0,12.0,"surprise,surprise,surprise,surprise,surprise,surprise",50.0
+2024-09-15 14:59:31,6,happy
+2024-09-15 14:59:33,7,fear
+2024-09-15 14:59:29,2024-09-15 14:59:33,6,4.0,"neutral,happy",85.0
+2024-09-15 14:59:33,2024-09-15 14:59:35,7,2.0,fear,0
+2024-09-15 14:59:37,6,fear
+2024-09-15 14:59:37,2024-09-15 14:59:39,6,2.0,fear,0
+2024-09-15 14:59:53,8,sad
+2024-09-15 14:59:53,2024-09-15 14:59:55,8,2.0,sad,0
+2024-09-15 15:11:46,1,neutral
+2024-09-15 15:11:46,2,happy
+2024-09-15 15:12:02,1,neutral
+2024-09-15 15:12:02,2,happy
+2024-09-15 15:11:46,2024-09-15 15:12:09,1,23.0,"neutral,neutral",70.0
+2024-09-15 15:11:46,2024-09-15 15:12:09,2,23.0,"happy,happy",100
+2024-09-15 15:12:42,3,surprise
+2024-09-15 15:12:44,3,surprise
+2024-09-15 15:12:42,2024-09-15 15:12:46,3,4.0,"surprise,surprise",50.0
+2024-09-15 15:12:50,4,surprise
+2024-09-15 15:12:50,2024-09-15 15:12:52,4,2.0,surprise,50.0
+2024-09-15 15:12:58,3,surprise
+2024-09-15 15:13:00,3,surprise
+2024-09-15 15:13:02,5,angry
+2024-09-15 15:12:58,2024-09-15 15:13:02,3,4.0,"surprise,surprise",50.0
+2024-09-15 15:13:04,5,angry
+2024-09-15 15:13:06,5,angry
+2024-09-15 15:13:08,5,neutral
+2024-09-15 15:13:10,4,neutral
+2024-09-15 15:13:02,2024-09-15 15:13:10,5,8.0,"angry,angry,angry,neutral",0
+2024-09-15 15:13:12,4,fear
+2024-09-15 15:13:14,4,fear
+2024-09-15 15:13:10,2024-09-15 15:13:16,4,6.0,"neutral,fear,fear",0
+2024-09-15 15:13:22,3,fear
+2024-09-15 15:13:24,4,surprise
+2024-09-15 15:13:22,2024-09-15 15:13:24,3,2.0,fear,0
+2024-09-15 15:13:26,4,surprise
+2024-09-15 15:13:28,3,surprise
+2024-09-15 15:13:24,2024-09-15 15:13:28,4,4.0,"surprise,surprise",50.0
+2024-09-15 15:13:28,2024-09-15 15:13:30,3,2.0,surprise,50.0
+2024-09-15 15:13:56,6,angry
+2024-09-15 15:13:56,2024-09-15 15:13:58,6,2.0,angry,0
+2024-09-15 15:14:00,3,surprise
+2024-09-15 15:14:00,6,sad
+2024-09-15 15:14:02,4,surprise
+2024-09-15 15:14:00,2024-09-15 15:14:02,3,2.0,surprise,50.0
+2024-09-15 15:14:00,2024-09-15 15:14:02,6,2.0,sad,0
+2024-09-15 15:14:04,3,surprise
+2024-09-15 15:14:02,2024-09-15 15:14:04,4,2.0,surprise,50.0
+2024-09-15 15:14:04,2024-09-15 15:14:06,3,2.0,surprise,50.0
+2024-09-15 15:14:08,3,surprise
+2024-09-15 15:14:10,4,surprise
+2024-09-15 15:14:08,2024-09-15 15:14:10,3,2.0,surprise,50.0
+2024-09-15 15:14:10,2024-09-15 15:14:12,4,2.0,surprise,50.0
+2024-09-15 15:14:14,3,surprise
+2024-09-15 15:14:14,2024-09-15 15:14:16,3,2.0,surprise,50.0
+2024-09-15 15:14:20,3,surprise
+2024-09-15 15:14:20,2024-09-15 15:14:22,3,2.0,surprise,50.0
+2024-09-15 15:14:28,3,surprise
+2024-09-15 15:14:28,2024-09-15 15:14:30,3,2.0,surprise,50.0
+2024-09-15 15:14:34,3,surprise
+2024-09-15 15:14:36,3,surprise
+2024-09-15 15:14:34,2024-09-15 15:14:38,3,4.0,"surprise,surprise",50.0
+2024-09-15 15:14:40,4,surprise
+2024-09-15 15:14:42,3,surprise
+2024-09-15 15:14:40,2024-09-15 15:14:42,4,2.0,surprise,50.0
+2024-09-15 15:14:42,2024-09-15 15:14:44,3,2.0,surprise,50.0
+2024-09-15 15:14:50,3,fear
+2024-09-15 15:14:52,4,fear
+2024-09-15 15:14:50,2024-09-15 15:14:52,3,2.0,fear,0
+2024-09-15 15:14:54,4,surprise
+2024-09-15 15:14:56,3,surprise
+2024-09-15 15:14:52,2024-09-15 15:14:56,4,4.0,"fear,surprise",0
+2024-09-15 15:14:56,2024-09-15 15:14:58,3,2.0,surprise,50.0
+2024-09-15 15:15:18,4,surprise
+2024-09-15 15:15:18,2024-09-15 15:15:20,4,2.0,surprise,50.0
+2024-09-15 15:15:48,3,surprise
+2024-09-15 15:15:48,2024-09-15 15:15:50,3,2.0,surprise,50.0
+2024-09-15 15:15:54,4,fear
+2024-09-15 15:15:56,4,angry
+2024-09-15 15:15:58,4,surprise
+2024-09-15 15:16:00,4,fear
+2024-09-15 15:15:54,2024-09-15 15:16:02,4,8.0,"fear,angry,surprise,fear",0
+2024-09-15 15:16:33,4,neutral
+2024-09-15 15:16:34,3,surprise
+2024-09-15 15:16:33,2024-09-15 15:16:34,4,1.0,neutral,70.0
+2024-09-15 15:16:34,2024-09-15 15:16:37,3,3.0,surprise,50.0
+2024-09-15 15:16:41,3,surprise
+2024-09-15 15:16:43,4,fear
+2024-09-15 15:16:41,2024-09-15 15:16:43,3,2.0,surprise,50.0
+2024-09-15 15:16:43,2024-09-15 15:16:45,4,2.0,fear,0
+2024-09-15 15:16:53,4,surprise
+2024-09-15 15:16:53,2024-09-15 15:16:55,4,2.0,surprise,50.0
+2024-09-15 15:17:11,1,surprise
+2024-09-15 15:17:11,2024-09-15 15:17:14,1,3.0,surprise,50.0
+2024-09-15 15:17:11,2024-09-15 15:17:15,1,4.0,surprise,50.0
+2024-09-15 15:17:17,1,surprise
+2024-09-15 15:17:19,1,surprise
+2024-09-15 15:17:21,1,surprise
+2024-09-15 15:17:23,1,surprise
+2024-09-15 15:17:25,1,surprise
+2024-09-15 15:17:17,2024-09-15 15:17:27,1,10.0,"surprise,surprise,surprise,surprise,surprise,surprise",50.0
+2024-09-15 15:17:17,2024-09-15 15:17:29,1,12.0,"surprise,surprise,surprise,surprise,surprise,surprise",50.0
+2024-09-15 15:17:31,1,surprise
+2024-09-15 15:17:31,2024-09-15 15:17:33,1,2.0,"surprise,surprise,surprise,surprise,surprise,surprise,surprise",50.0
+2024-09-15 15:17:31,2024-09-15 15:17:35,1,4.0,"surprise,surprise,surprise,surprise,surprise,surprise,surprise",50.0
+2024-09-15 15:17:31,2024-09-15 15:17:37,1,6.0,"surprise,surprise,surprise,surprise,surprise,surprise,surprise",50.0
+2024-09-15 15:17:31,2024-09-15 15:17:39,1,8.0,"surprise,surprise,surprise,surprise,surprise,surprise,surprise",50.0
+2024-09-15 15:17:31,2024-09-15 15:17:41,1,10.0,"surprise,surprise,surprise,surprise,surprise,surprise,surprise",50.0
+2024-09-15 15:17:43,1,surprise
+2024-09-15 15:17:43,2024-09-15 15:17:45,1,2.0,"surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise",50.0
+2024-09-15 15:17:43,2024-09-15 15:17:47,1,4.0,"surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise",50.0
+2024-09-15 15:17:43,2024-09-15 15:17:49,1,6.0,"surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise",50.0
+2024-09-15 15:17:43,2024-09-15 15:17:51,1,8.0,"surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise",50.0
+2024-09-15 15:17:43,2024-09-15 15:17:53,1,10.0,"surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise",50.0
+2024-09-15 15:17:43,2024-09-15 15:17:55,1,12.0,"surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise",50.0
+2024-09-15 15:17:43,2024-09-15 15:17:57,1,14.0,"surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise",50.0
+2024-09-15 15:17:59,1,surprise
+2024-09-15 15:17:59,2024-09-15 15:18:01,1,2.0,"surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise",50.0
+2024-09-15 15:17:59,2024-09-15 15:18:03,1,4.0,"surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise",50.0
+2024-09-15 15:18:05,1,surprise
+2024-09-15 15:18:05,2024-09-15 15:18:07,1,2.0,"surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise",50.0
+2024-09-15 15:18:09,1,surprise
+2024-09-15 15:18:11,1,surprise
+2024-09-15 15:18:09,2024-09-15 15:18:13,1,4.0,"surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise",50.0
+2024-09-15 15:18:09,2024-09-15 15:18:15,1,6.0,"surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise",50.0
+2024-09-15 15:18:09,2024-09-15 15:18:17,1,8.0,"surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise",50.0
+2024-09-15 15:18:09,2024-09-15 15:18:19,1,10.0,"surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise",50.0
+2024-09-15 15:18:09,2024-09-15 15:18:21,1,12.0,"surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise",50.0
+2024-09-15 15:18:09,2024-09-15 15:18:23,1,14.0,"surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise",50.0
+2024-09-15 15:18:09,2024-09-15 15:18:25,1,16.0,"surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise",50.0
+2024-09-15 15:18:09,2024-09-15 15:18:27,1,18.0,"surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise",50.0
+2024-09-15 15:18:29,1,surprise
+2024-09-15 15:18:29,2024-09-15 15:18:31,1,2.0,"surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise",50.0
+2024-09-15 15:18:29,2024-09-15 15:18:33,1,4.0,"surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise",50.0
+2024-09-15 15:18:29,2024-09-15 15:18:35,1,6.0,"surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise",50.0
+2024-09-15 15:18:37,2,neutral
+2024-09-15 15:18:29,2024-09-15 15:18:37,1,8.0,"surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise",50.0
+2024-09-15 15:18:39,2,neutral
+2024-09-15 15:18:29,2024-09-15 15:18:39,1,10.0,"surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise",50.0
+2024-09-15 15:18:29,2024-09-15 15:18:41,1,12.0,"surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise",50.0
+2024-09-15 15:18:37,2024-09-15 15:18:41,2,4.0,"neutral,neutral",70.0
+2024-09-15 15:18:43,1,neutral
+2024-09-15 15:18:37,2024-09-15 15:18:43,2,6.0,"neutral,neutral",70.0
+2024-09-15 15:18:43,2024-09-15 15:18:45,1,2.0,"surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,neutral",51.42857142857144
+2024-09-15 15:18:37,2024-09-15 15:18:45,2,8.0,"neutral,neutral",70.0
+2024-09-15 15:18:43,2024-09-15 15:18:47,1,4.0,"surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,neutral",51.42857142857144
+2024-09-15 15:18:37,2024-09-15 15:18:47,2,10.0,"neutral,neutral",70.0
+2024-09-15 15:18:43,2024-09-15 15:18:49,1,6.0,"surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,neutral",51.42857142857144
+2024-09-15 15:18:37,2024-09-15 15:18:49,2,12.0,"neutral,neutral",70.0
+2024-09-15 15:18:51,3,fear
+2024-09-15 15:18:43,2024-09-15 15:18:51,1,8.0,"surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,neutral",51.42857142857144
+2024-09-15 15:18:37,2024-09-15 15:18:51,2,14.0,"neutral,neutral",70.0
+2024-09-15 15:18:43,2024-09-15 15:18:53,1,10.0,"surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,neutral",51.42857142857144
+2024-09-15 15:18:37,2024-09-15 15:18:53,2,16.0,"neutral,neutral",70.0
+2024-09-15 15:18:51,2024-09-15 15:18:53,3,2.0,fear,0
+2024-09-15 15:18:55,1,fear
+2024-09-15 15:18:37,2024-09-15 15:18:55,2,18.0,"neutral,neutral",70.0
+2024-09-15 15:18:51,2024-09-15 15:18:55,3,4.0,fear,0
+2024-09-15 15:30:13,1,fear
+2024-09-15 15:30:18,1,angry
+2024-09-15 15:30:19,1,surprise
+2024-09-15 15:30:19,1,angry
+2024-09-15 15:30:21,1,angry
+2024-09-15 15:30:23,1,angry
+2024-09-15 15:30:25,1,angry
+2024-09-15 15:30:27,1,surprise
+2024-09-15 15:30:29,1,angry
+2024-09-15 15:30:31,1,surprise
+2024-09-15 15:30:33,1,surprise
+2024-09-15 15:30:35,1,surprise
+2024-09-15 15:30:37,1,surprise
+2024-09-15 15:30:39,1,surprise
+2024-09-15 15:30:41,1,surprise
+2024-09-15 15:30:43,1,surprise
+2024-09-15 15:30:45,1,surprise
+2024-09-15 15:30:13,2024-09-15 15:30:47,1,34.0,"fear,angry,surprise,angry,angry,angry,angry,surprise,angry,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise",0
+2024-09-15 15:30:49,1,surprise
+2024-09-15 15:30:51,1,neutral
+2024-09-15 15:30:53,1,neutral
+2024-09-15 15:30:49,2024-09-15 15:30:55,1,6.0,"surprise,neutral,neutral",63.33333333333333
+2024-09-15 15:30:57,1,neutral
+2024-09-15 15:30:57,2024-09-15 15:30:59,1,2.0,neutral,70.0
+2024-09-15 15:31:09,1,surprise
+2024-09-15 15:31:09,2024-09-15 15:31:11,1,2.0,surprise,50.0
+2024-09-15 15:31:13,1,fear
+2024-09-15 15:31:13,2024-09-15 15:31:16,1,3.0,fear,0
+2024-09-15 15:31:30,1,disgust
+2024-09-15 15:31:30,2024-09-15 15:31:32,1,2.0,disgust,0
+2024-09-15 15:31:34,1,neutral
+2024-09-15 15:31:34,2024-09-15 15:31:36,1,2.0,neutral,70.0
+2024-09-15 15:31:38,1,surprise
+2024-09-15 15:31:38,2024-09-15 15:31:40,1,2.0,surprise,50.0
+2024-09-15 15:31:42,2,surprise
+2024-09-15 15:31:42,2024-09-15 15:31:44,2,2.0,surprise,50.0
+2024-09-15 15:31:46,3,happy
+2024-09-15 15:31:46,2024-09-15 15:31:48,3,2.0,happy,100
+2024-09-15 15:31:50,1,neutral
+2024-09-15 15:31:52,3,happy
+2024-09-15 15:31:50,2024-09-15 15:31:52,1,2.0,neutral,70.0
+2024-09-15 15:31:54,1,happy
+2024-09-15 15:31:52,2024-09-15 15:31:54,3,2.0,happy,100
+2024-09-15 15:31:56,1,happy
+2024-09-15 15:31:58,1,happy
+2024-09-15 15:32:00,1,happy
+2024-09-15 15:32:02,1,neutral
+2024-09-15 15:32:04,1,neutral
+2024-09-15 15:31:54,2024-09-15 15:32:06,1,12.0,"happy,happy,happy,happy,neutral,neutral",90.0
+2024-09-15 15:32:59,1,surprise
+2024-09-15 15:33:04,1,surprise
+2024-09-15 15:32:59,2024-09-15 15:33:04,1,5.0,"surprise,surprise",50.0
+2024-09-15 15:33:04,1,neutral
+2024-09-15 15:33:05,1,surprise
+2024-09-15 15:33:04,2024-09-15 15:33:06,1,2.0,"neutral,surprise",60.0
+2024-09-15 15:33:06,1,surprise
+2024-09-15 15:33:08,1,surprise
+2024-09-15 15:33:06,2024-09-15 15:33:10,1,4.0,"surprise,surprise",50.0
+2024-09-15 15:33:12,1,surprise
+2024-09-15 15:33:14,1,surprise
+2024-09-15 15:33:16,1,surprise
+2024-09-15 15:33:18,1,surprise
+2024-09-15 15:33:20,1,surprise
+2024-09-15 15:33:12,2024-09-15 15:33:22,1,10.0,"surprise,surprise,surprise,surprise,surprise",50.0
+2024-09-15 15:33:24,1,surprise
+2024-09-15 15:33:26,1,neutral
+2024-09-15 15:33:28,1,surprise
+2024-09-15 15:33:30,1,surprise
+2024-09-15 15:33:24,2024-09-15 15:33:32,1,8.0,"surprise,neutral,surprise,surprise",55.00000000000001
+2024-09-15 15:33:34,1,surprise
+2024-09-15 15:33:34,2024-09-15 15:33:36,1,2.0,surprise,50.0
+2024-09-15 15:33:38,1,surprise
+2024-09-15 15:33:40,1,surprise
+2024-09-15 15:33:42,1,surprise
+2024-09-15 15:33:38,2024-09-15 15:33:44,1,6.0,"surprise,surprise,surprise",50.0
+2024-09-15 15:33:46,1,surprise
+2024-09-15 15:33:48,1,surprise
+2024-09-15 15:33:50,1,surprise
+2024-09-15 15:33:52,1,surprise
+2024-09-15 15:33:54,1,surprise
+2024-09-15 15:33:56,1,surprise
+2024-09-15 15:33:58,1,surprise
+2024-09-15 15:34:00,1,surprise
+2024-09-15 15:34:02,1,surprise
+2024-09-15 15:34:04,1,surprise
+2024-09-15 15:34:06,1,surprise
+2024-09-15 15:33:46,2024-09-15 15:34:08,1,22.0,"surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise,surprise",50.0
+2024-09-15 15:34:13,1,angry
+2024-09-15 15:34:16,1,neutral
+2024-09-15 15:34:19,1,neutral
+2024-09-15 15:34:22,1,neutral
+2024-09-15 15:34:25,1,angry
+2024-09-15 15:34:28,1,angry
+2024-09-15 15:34:31,2,happy
+2024-09-15 15:34:13,2024-09-15 15:34:31,1,18.0,"angry,neutral,neutral,neutral,angry,angry",0
+2024-09-15 15:34:34,2,neutral
+2024-09-15 15:34:37,2,happy
+2024-09-15 15:34:40,2,neutral
+2024-09-15 15:34:43,3,neutral
+2024-09-15 15:34:31,2024-09-15 15:34:43,2,12.0,"happy,neutral,happy,neutral",85.00000000000001
+2024-09-15 15:34:46,2,happy
+2024-09-15 15:34:43,2024-09-15 15:34:46,3,3.0,neutral,70.0
+2024-09-15 15:34:49,1,neutral
+2024-09-15 15:34:46,2024-09-15 15:34:49,2,3.0,happy,100
+2024-09-15 15:34:52,1,neutral
+2024-09-15 15:35:01,1,neutral
+2024-09-15 15:35:05,1,neutral
+2024-09-15 15:35:06,1,neutral
+2024-09-15 15:35:06,1,neutral
+2024-09-15 15:35:07,1,neutral
+2024-09-15 15:35:10,1,neutral
+2024-09-15 15:35:13,1,happy
+2024-09-15 15:35:16,1,neutral
+2024-09-15 15:35:19,1,neutral
+2024-09-15 15:35:22,1,neutral
+2024-09-15 15:35:01,2024-09-15 15:35:25,1,24.0,"neutral,neutral,neutral,neutral,neutral,neutral,happy,neutral,neutral,neutral",73.00000000000001
+2024-09-15 15:35:28,1,neutral
+2024-09-15 15:35:28,2024-09-15 15:35:31,1,3.0,neutral,70.0
+2024-09-15 15:35:37,1,neutral
+2024-09-15 15:35:37,2024-09-15 15:35:40,1,3.0,neutral,70.0
+2024-09-15 15:35:43,1,fear
+2024-09-15 15:35:46,1,angry
+2024-09-15 15:35:49,1,neutral
+2024-09-15 15:35:43,2024-09-15 15:36:56,1,73.0,"fear,angry,neutral",0
+2024-09-15 15:37:50,2,happy
+2024-09-15 15:37:53,2,happy
+2024-09-15 15:37:50,2024-09-15 15:37:55,2,5.0,"happy,happy",100
+2024-09-15 15:37:59,2,neutral
+2024-09-15 15:38:02,3,neutral
+2024-09-15 15:37:59,2024-09-15 15:38:02,2,3.0,neutral,70.0
+2024-09-15 15:38:02,2024-09-15 15:38:05,3,3.0,neutral,70.0
+2024-09-15 15:38:14,4,neutral
+2024-09-15 15:38:17,4,sad
+2024-09-15 15:38:20,3,neutral
+2024-09-15 15:38:14,2024-09-15 15:38:20,4,6.0,"neutral,sad",9.999999999999998
+2024-09-15 15:38:23,2,neutral
+2024-09-15 15:38:20,2024-09-15 15:38:23,3,3.0,neutral,70.0
+2024-09-15 15:38:23,2024-09-15 15:38:26,2,3.0,neutral,70.0
+2024-09-15 15:38:41,2,surprise
+2024-09-15 15:38:44,2,fear
+2024-09-15 15:38:41,2024-09-15 15:38:47,2,6.0,"surprise,fear",0
+2024-09-15 15:43:32,5,neutral
+2024-09-15 15:43:32,2024-09-15 15:43:35,5,3.0,neutral,70.0
